@@ -1,0 +1,16 @@
+.around1{
+	border: 2px solid black;
+	padding: 30px;
+}
+.around2{
+	border: 2px solid black;
+	padding: 30px;
+	border-radius: 40px;
+	box-shadow: 3px 3px 4px 4px red;
+}
+.around3{
+	border: 2px solid black;
+	padding: 30px;
+	margin-bottom: 30px;
+	background: green;
+}

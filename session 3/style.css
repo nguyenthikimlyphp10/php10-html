@@ -1,0 +1,14 @@
+#header{
+	height: 100px;
+	border: 2px red;
+	text-align: center;
+}
+#cotent{
+    height: 100px;
+	border: 2px red;
+	
+}
+#footer{
+	height: 100px;
+	border: 2px red;
+}

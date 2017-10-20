@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	margin: auto;
+	background-color: green;
+	width: 800px;
+	height: 80px;
+}
+nav{
+	margin:auto;
+	background-color: red;
+	width: 800px;
+	height: 80px;
+}
+
+#a{
+	width: 800px;
+	height: 120px;
+	margin:auto;
+}
+#a1{
+	width: 400px;
+	height: 120px;
+	float: left;
+	background-color: purple;
+}
+#a2{
+	width: 400px;
+	height: 120px;
+	float: left;
+	background-color: orange;
+}
+#b{
+	width: 800px;
+	height: 100px;
+	background-color:black;
+	margin: auto;
+	color:  white;
+}
+footer{
+	width: 800px;
+	height: 80px;
+	background-color: blue;
+	margin: auto;
+}
+ul{
+	list-style: circle;
+}

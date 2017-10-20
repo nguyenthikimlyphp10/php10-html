@@ -1,0 +1,98 @@
+body{
+	border: 2px solid black;
+	margin: 1px;
+	height: 100px;
+	width: 1000px;
+}
+#header{
+	height: 150px;
+	background-color: #F1DACC;
+}
+#sidebar{
+	height: 500px;
+	width: 300px;
+	float: left;
+	margin-right: 20px;
+	font-size: 
+}
+#content{
+	height: 500px;
+	width: 600px;
+	float: left;
+}
+#contact{
+	height: 100px;
+	background-color: #595959;
+	margin-left: 10%;
+	width: 30%;
+}
+#profile{
+	height: 100px;
+	background-color: #595959;
+	margin-left: 10%;
+	width: 30%;
+}
+}
+#skills{
+	height: 200px;
+	background-color: #595959;
+	margin-left: 10%;
+	width: 30%;
+}
+#languages{
+	height: 200px;
+	background-color: #595959;
+	margin-left: 10%;
+	width: 30%;
+}
+#interest{
+	height: 100px;
+	background-color: #595959;
+	margin-left: 10%;
+	width: 30%;
+}
+#experience{
+	height: 300px;
+    background-color: #595959;
+    margin-left: 30%;
+}
+#education{
+	height: 400px;
+	 background-color: #595959;
+	 margin-left: 50%;
+	 width: 40%;
+	 margin-top: 20%;
+	 float: left;
+}
+.english{
+	background-color: yellow;
+	border: 2px solid black;
+	height: 15px;
+	width: 200px;
+	float: left;
+
+}
+.German{
+	background-color: yellow;
+	border: 2px solid black;
+	height: 15px;
+	width: 200px;
+	float: left;
+}
+.French{
+	background-color: yellow;
+	border: 2px solid black;
+	height: 15px;
+	width: 200px;
+}
+.h1{
+	font-size: 250%;
+
+}
+h2{
+	font-size: 150%;
+
+}
+p{
+	font-size:  100%;
+}
